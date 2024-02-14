@@ -2,7 +2,6 @@
 section .data
     ;Varaibles for 1A
     new_line        db 10,0
-    new_line_len    dd 1
     data_ptr        dd 0
     ;Varaibles for 1B
     infile          dd 0
